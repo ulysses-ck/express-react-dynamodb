@@ -3,8 +3,7 @@
 App to save programming languages
 
 ## 🎞 Demo
-
-![Demo](test1.mp4)
+https://github.com/ulysses-ck/express-react-dynamodb/blob/main/test1.mp4
 
 ## 🔨 Build with:
 
