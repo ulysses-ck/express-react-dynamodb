@@ -4,7 +4,7 @@ App to save programming languages
 
 ## 🎞 Demo
 
-![Demo](./test1.mp4)
+![Demo](test1.mp4)
 
 ## 🔨 Build with:
 
